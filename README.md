@@ -1,2 +1,2 @@
 # FORM-CATEGORIZER
-This Project/Repository created for JOTFORM Internship.
+This Project/Repository is created for JOTFORM Internship.
