@@ -131,13 +131,7 @@ async def one_form(formID):
     text = await question_session()
     return title, text
 # ----------------------------End of Getting Data----------------------------
-"""
-if __name__ == '__main__':
-    # set another loop implementation:
-    asyncio.set_event_loop_policy(asyncio.WindowsSelectorEventLoopPolicy())
-    asyncio.run(one_form(["72006731084146"]))
 
-"""
 # ----------------------------Preprocessing----------------------------
 
 
@@ -230,8 +224,6 @@ def predict(dataframe):
 
 # ----------------------------End Of Prediction----------------------------
 
-
-defaultID = "202434499985167"
 
 app = FastAPI()
 
