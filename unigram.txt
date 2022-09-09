@@ -1,0 +1,30 @@
+
+==> 'application fee':
+  * Top unigrams: applic, smw, catchermtrx, angler, trademark
+
+==> 'course fee':
+  * Top unigrams: cours, train, class, lesson, ce
+
+==> 'deposit fee':
+  * Top unigrams: deposit, parti, shorttext, blp, stfrancispetclin
+
+==> 'donation':
+  * Top unigrams: donat, contribut, give, tith, sponsorship
+
+==> 'form not available':
+  * Top unigrams: userid, entiti, satsang, br, endur
+
+==> 'membership':
+  * Top unigrams: membership, member, xgen, credenti, due
+
+==> 'product fee':
+  * Top unigrams: order, ship, product, deliveri, color
+
+==> 'registration fee':
+  * Top unigrams: registr, camp, ticket, entri, night
+
+==> 'service fee':
+  * Top unigrams: patient, test, client, link, offic
+
+==> 'subscription':
+  * Top unigrams: subscript, subscrib, month, hra, monthli
