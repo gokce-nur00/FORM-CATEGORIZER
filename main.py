@@ -1,21 +1,13 @@
 import pandas as pd
-import numpy as np
-import requests
 import pickle
-import json
-import matplotlib.pyplot as plt
-import seaborn as sns
 import aiohttp
 import asyncio
 
-from PIL import Image
-import nltk
 from bs4 import BeautifulSoup
 from nltk.stem import PorterStemmer, WordNetLemmatizer
 from nltk.corpus import stopwords
 from sklearn.model_selection import cross_val_score
 from sklearn.metrics import confusion_matrix
-from sklearn import metrics
 
 import uvicorn
 from fastapi import FastAPI
